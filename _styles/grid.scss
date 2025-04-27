@@ -49,6 +49,21 @@ $one: 500px;
   }
 }
 
+.grid[data-style="rect"] {
+  align-items: center;
+
+  & > * {
+    aspect-ratio: 4 / 3;
+  }
+
+  & img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    max-width: unset;
+    max-height: unset;
+  }
+}
+
 .grid > :where(h1, h2, h3, h4, h5, h6) {
   display: none;
 }

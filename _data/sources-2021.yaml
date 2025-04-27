@@ -1,0 +1,46 @@
+# 刘宇
+- id: doi:10.1016/j.patcog.2021.107983
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - PR
+
+- id: doi:10.1016/j.neucom.2020.10.071
+  type: journal
+  tags:
+    - CCF-C
+    - JCR-Q1
+    - Neurocomputing
+
+- id: doi:10.1145/3474085.3475492
+  type: paper
+  tags:
+    - CCF-A
+    - ACM-MM
+
+- id: doi:10.1145/3474085.3475563
+  type: paper
+  tags:
+    - CCF-A
+    - ACM-MM
+
+- id: doi:10.1109/CVPR46437.2021.00781
+  type: paper
+  tags:
+    - CCF-A
+    - CVPR
+
+- id: doi:10.1109/ICME51207.2021.9428165
+  type: paper
+  tags:
+    - CCF-B
+    - ICME
+
+# 贾棋
+- id: doi:10.1109/TCSVT.2021.3138431
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TCSVT

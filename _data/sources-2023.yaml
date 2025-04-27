@@ -1,0 +1,87 @@
+# 刘宇
+- id: doi:10.1109/TCSVT.2023.3331780
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TCSVT
+
+- id: doi:10.1109/TNNLS.2022.3140235
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TNNLS
+
+- id: doi:10.1007/978-981-99-8462-6_13
+  type: paper
+  tags:
+    - CCF-B
+    - PRCV
+
+- id: doi:10.1109/LRA.2023.3311360
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - RA-L
+
+- id: doi:10.1145/3581783.3612298
+  type: paper
+  tags:
+    - CCF-A
+    - ACM-MM
+    - Oral
+
+- id: doi:10.1145/3581783.3612121
+  type: paper
+  tags:
+    - CCF-A
+    - ACM-MM
+
+- id: doi:10.1007/s13735-023-00267-8
+  type: journal
+  tags:
+    - JCR-Q2
+    - IJMIR
+
+- id: doi:10.1109/TPAMI.2022.3218591
+  type: journal
+  tags:
+    - CCF-A
+    - JCR-Q1
+    - TPAMI
+
+- id: doi:10.1609/aaai.v37i11.26527
+  type: paper
+  tags:
+    - CCF-A
+    - AAAI
+
+- id: doi:10.1109/TMM.2022.3222934
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TMM
+
+# 贾棋
+- id: doi:10.1109/TIP.2023.3268563
+  type: journal
+  tags:
+    - CCF-A
+    - JCR-Q1
+    - TIP
+
+- id: doi:10.1007/s13735-023-00267-8
+  type: journal
+  tags:
+    - JCR-Q2
+    - IJMIR
+
+- id: doi:10.1016/j.patcog.2022.109041
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - PR

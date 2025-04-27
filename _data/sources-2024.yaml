@@ -1,0 +1,125 @@
+# 刘宇
+- id: doi:10.1109/CVPR52733.2024.01674
+  type: paper
+  image: images/publications/2024/Novel_Class_Discovery_for_Ultra_Fine_Grained_Visual_Categorization.jpg
+  buttons:
+    - type: source
+      link: https://github.com/SSDUT-Caiyq/UFG-NCD
+  tags:
+    - CCF-A
+    - CVPR
+    - Poster Highlight
+
+- id: doi:10.1016/j.CVIU.2024.104197
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q2
+    - CVIU
+
+- id: doi:10.1016/j.CVIU.2024.104209
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q2
+    - CVIU
+
+- id: arXiv:2411.01739
+  type: paper
+  image: images/publications/2024/Not_Just_Object_But_State_Compositional_Incremental_Learning_without_Forgetting.jpg
+  buttons:
+    - type: source
+      link: https://github.com/Yanyi-Zhang/CompILer
+  tags:
+    - CCF-A
+    - NeurIPS
+  date: 2024-12-12
+  repo: Yanyi-Zhang/CompILer
+
+- id: doi:10.1145/3664647.3680927
+  type: paper
+  buttons:
+    - type: source
+      link: https://github.com/soberguo/HOIGen
+  tags:
+    - CCF-A
+    - ACM-MM
+  repo: soberguo/HOIGen
+
+- id: doi:10.1145/3664647.3680957
+  type: paper
+  tags:
+    - CCF-A
+    - ACM-MM
+
+- id: doi:10.1007/s10462-024-10841-z
+  type: journal
+
+- id: doi:10.1109/ICME57554.2024.10687757
+  type: paper
+  tags:
+    - CCF-B
+    - ICME
+
+- id: doi:10.1109/ICME57554.2024.10687409
+  type: paper
+  tags:
+    - CCF-B
+    - ICME
+
+- id: doi:10.1109/ICME57554.2024.10687954
+  type: paper
+  tags:
+    - CCF-B
+    - ICME
+
+- id: doi:10.1109/ICASSP48485.2024.10446756
+  type: paper
+  tags:
+    - CCF-B
+    - ICASSP
+
+- id: doi:10.1109/ICASSP48485.2024.10446158
+  type: paper
+  tags:
+    - CCF-B
+    - ICASSP
+
+- id: doi:10.1109/ICASSP48485.2024.10446103
+  type: paper
+  tags:
+    - CCF-B
+    - ICASSP
+
+- id: doi:10.1109/ICASSP48485.2024.10447340
+  type: paper
+  tags:
+    - CCF-B
+    - ICASSP
+
+# 贾棋
+- id: doi:10.1007/s00371-023-03123-2
+  type: journal
+  tags:
+    - CCF-C
+    - JCR-Q2
+    - TVC
+
+- id: doi:10.1016/j.patcog.2024.110579
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - PR
+
+- id: doi:10.1016/j.jaci.2023.12.023
+  type: journal
+  tags:
+    - JCR-Q1
+
+- id: doi:10.1109/TCSVT.2023.3331780
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TCSVT

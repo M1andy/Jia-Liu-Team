@@ -10,7 +10,7 @@
 
     // get elements with non-empty tooltips
     const elements = [...document.querySelectorAll("[data-tooltip]")].filter(
-      (element) => element.dataset.tooltip.trim() && !element._tippy
+      (element) => element.dataset.tooltip.trim() && !element._tippy,
     );
 
     // add tooltip to elements

@@ -26,6 +26,22 @@ $one: 500px;
   margin-bottom: 0 !important;
 }
 
+.cols[data-style="rect"] {
+  align-items: center;
+
+  & > * {
+    aspect-ratio: 4 / 3;
+    min-width: 0;
+    min-height: 0;
+  }
+
+  & img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    max-width: min(100%, 750px);
+  }
+}
+
 @media (max-width: $two) {
   .cols {
     --repeat: min(2, var(--cols));
@@ -37,3 +53,4 @@ $one: 500px;
     --repeat: min(1, var(--cols));
   }
 }
+

@@ -1,0 +1,42 @@
+# 刘宇
+- id: doi:10.1016/j.cviu.2024.104209
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q2
+    - CVIU
+
+- id: doi:10.1609/aaai.v39i9.33020
+  type: paper
+  tags:
+    - CCF-A
+    - AAAI
+
+- id: doi:10.1109/TMM.2025.3535285
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TMM
+
+# 贾棋
+- id: doi:10.1109/TMM.2025.3535285
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TMM
+
+- id: doi:10.1016/j.cviu.2024.104209
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q2
+    - CVIU
+
+- id: doi:10.1016/j.cviu.2024.104197
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q2
+    - CVIU

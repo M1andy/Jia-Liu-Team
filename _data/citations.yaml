@@ -1,247 +1,856 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1109/LRA.2023.3311360
+  title: Snow Removal for LiDAR Point Clouds With Spatio-Temporal Conditional Random
+    Fields
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Weimin Wang
+  - Ting Yang
+  - Yu Du
+  - Yu Liu
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-10-01'
+  link: https://doi.org/g9f7kb
+  orcid: 0000-0002-2067-9175
   plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  file: sources-2023.yaml
+  type: journal
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - CCF-B
+  - JCR-Q1
+  - RA-L
+- id: doi:10.1016/j.patcog.2021.107983
+  title: Integrating information theory and adversarial learning for cross-modal retrieval
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Wei Chen
+  - Yu Liu
+  - Erwin M. Bakker
+  - Michael S. Lew
+  publisher: Pattern Recognition
+  date: '2021-09-01'
+  link: https://doi.org/gjxkq4
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - PR
   plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  file: sources-2021.yaml
+- id: doi:10.1016/j.neucom.2020.10.071
+  title: Multi-stage hybrid embedding fusion network for visual question answering
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Mingrui Lao
+  - Yanming Guo
+  - Nan Pu
+  - Wei Chen
+  - Yu Liu
+  - Michael S. Lew
+  publisher: Neurocomputing
+  date: '2021-01-01'
+  link: https://doi.org/gh2gwn
+  type: journal
+  tags:
+  - CCF-C
+  - JCR-Q1
+  - Neurocomputing
   plugin: sources.py
-  file: sources.yaml
+  file: sources-2021.yaml
+- id: doi:10.1145/3474085.3475492
+  title: 'From Superficial to Deep: Language Bias driven Curriculum Learning for Visual
+    Question Answering'
+  authors:
+  - Mingrui Lao
+  - Yanming Guo
+  - Yu Liu
+  - Wei Chen
+  - Nan Pu
+  - Michael S. Lew
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/g7krw4
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1145/3474085.3475563
+  title: Underwater Species Detection using Channel Sharpening Attention
+  authors:
+  - Lihao Jiang
+  - Yi Wang
+  - Qi Jia
+  - Shengwei Xu
+  - Yu Liu
+  - Xin Fan
+  - Haojie Li
+  - Risheng Liu
+  - Xinwei Xue
+  - Ruili Wang
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/g9f88w
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1109/CVPR46437.2021.00781
+  title: Lifelong Person Re-Identification via Adaptive Knowledge Accumulation
+  authors:
+  - Nan Pu
+  - Wei Chen
+  - Yu Liu
+  - Erwin M. Bakker
+  - Michael S. Lew
+  publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2021-06-01'
+  link: https://doi.org/grkgmt
+  type: paper
+  tags:
+  - CCF-A
+  - CVPR
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1109/ICME51207.2021.9428165
+  title: A Language Prior Based Focal Loss for Visual Question Answering
+  authors:
+  - Mingrui Lao
+  - Yanming Guo
+  - Yu Liu
+  - Michael S. Lew
+  publisher: 2021 IEEE International Conference on Multimedia and Expo (ICME)
+  date: '2021-07-05'
+  link: https://doi.org/g6mrf8
+  type: paper
+  tags:
+  - CCF-B
+  - ICME
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1109/TCSVT.2021.3138431
+  title: 'Cross-SRN: Structure-Preserving Super-Resolution Network With Cross Convolution'
+  authors:
+  - Yuqing Liu
+  - Qi Jia
+  - Xin Fan
+  - Shanshe Wang
+  - Siwei Ma
+  - Wen Gao
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2022-08-01'
+  link: https://doi.org/g9f9cf
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TCSVT
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1109/TCSVT.2023.3331780
+  title: Edge-Aware Correlation Learning for Unsupervised Progressive Homography Estimation
+  authors:
+  - Xiaomei Feng
+  - Qi Jia
+  - Zikun Zhao
+  - Yu Liu
+  - Xinwei Xue
+  - Xin Fan
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2024-06-01'
+  link: https://doi.org/g9f7w8
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TCSVT
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/TNNLS.2022.3140235
+  title: 'Residual Tuning: Toward Novel Category Discovery Without Labels'
+  authors:
+  - Yu Liu
+  - Tinne Tuytelaars
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2023-10-01'
+  link: https://doi.org/g9f7w9
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TNNLS
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1007/978-981-99-8462-6_13
+  title: "Broaden Your Positives: A General Rectification Approach for\_Novel Class\
+    \ Discovery"
+  authors:
+  - Yaqi Cai
+  - Nan Pu
+  - Qi Jia
+  - Weimin Wang
+  - Yu Liu
+  publisher: Lecture Notes in Computer Science
+  date: '2023-12-26'
+  link: https://doi.org/g9f7xb
+  type: paper
+  tags:
+  - CCF-B
+  - PRCV
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1145/3581783.3612298
+  title: Learning Pixel-wise Alignment for Unsupervised Image Stitching
+  authors:
+  - Qi Jia
+  - Xiaomei Feng
+  - Yu Liu
+  - Xin Fan
+  - Longin Jan Latecki
+  publisher: Proceedings of the 31st ACM International Conference on Multimedia
+  date: '2023-10-26'
+  link: https://doi.org/g9f7xc
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  - Oral
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1145/3581783.3612121
+  title: Multi-Domain Lifelong Visual Question Answering via Self-Critical Distillation
+  authors:
+  - Mingrui Lao
+  - Nan Pu
+  - Yu Liu
+  - Zhun Zhong
+  - Erwin M. Bakker
+  - Nicu Sebe
+  - Michael S. Lew
+  publisher: Proceedings of the 31st ACM International Conference on Multimedia
+  date: '2023-10-26'
+  link: https://doi.org/g9f7xd
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1007/s13735-023-00267-8
+  title: 'Deep learning for video-text retrieval: a review'
+  authors:
+  - Cunjuan Zhu
+  - Qi Jia
+  - Wei Chen
+  - Yanming Guo
+  - Yu Liu
+  publisher: International Journal of Multimedia Information Retrieval
+  date: '2023-02-23'
+  link: https://doi.org/g9f7xf
+  type: journal
+  tags:
+  - JCR-Q2
+  - IJMIR
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1109/TPAMI.2022.3218591
+  title: 'Deep Learning for Instance Retrieval: A Survey'
+  authors:
+  - Wei Chen
+  - Yu Liu
+  - Weiping Wang
+  - Erwin M. Bakker
+  - Theodoros Georgiou
+  - Paul Fieguth
+  - Li Liu
+  - Michael S. Lew
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  date: '2023-06-01'
+  link: https://doi.org/grpb8r
+  type: journal
+  tags:
+  - CCF-A
+  - JCR-Q1
+  - TPAMI
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1609/aaai.v37i11.26527
+  title: 'COCA: COllaborative CAusal Regularization for Audio-Visual Question Answering'
+  authors:
+  - Mingrui Lao
+  - Nan Pu
+  - Yu Liu
+  - Kai He
+  - Erwin M. Bakker
+  - Michael S. Lew
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2023-06-26'
+  link: https://doi.org/g9f7xg
+  type: paper
+  tags:
+  - CCF-A
+  - AAAI
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1109/TMM.2022.3222934
+  title: Lifelong Fine-Grained Image Retrieval
+  authors:
+  - Wei Chen
+  - Haoyang Xu
+  - Nan Pu
+  - Yu Liu
+  - Mingrui Lao
+  - Weiping Wang
+  - Li Liu
+  - Michael S. Lew
+  publisher: IEEE Transactions on Multimedia
+  date: '2023-01-01'
+  link: https://doi.org/g9f7xh
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TMM
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1109/TIP.2023.3268563
+  title: Characteristic Mapping for Ellipse Detection Acceleration
+  authors:
+  - Qi Jia
+  - Xin Fan
+  - Yang Yang
+  - Xuxu Liu
+  - Zhongxuan Luo
+  - Qian Wang
+  - Xinchen Zhou
+  - Longin Jan Latecki
+  publisher: IEEE Transactions on Image Processing
+  date: '2023-01-01'
+  link: https://doi.org/g9f9dw
+  type: journal
+  tags:
+  - CCF-A
+  - JCR-Q1
+  - TIP
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1016/j.patcog.2022.109041
+  title: Investigating intrinsic degradation factors by multi-branch aggregation for
+    real-world underwater image enhancement
+  authors:
+  - Xinwei Xue
+  - Zexuan Li
+  - Long Ma
+  - Qi Jia
+  - Risheng Liu
+  - Xin Fan
+  publisher: Pattern Recognition
+  date: '2023-01-01'
+  link: https://doi.org/grbcb7
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - PR
+  plugin: sources.py
+  file: sources-2023.yaml
+- id: doi:10.1109/CVPR52733.2024.01674
+  title: Novel Class Discovery for Ultra-Fine-Grained Visual Categorization
+  authors:
+  - Yu Liu
+  - Yaqi Cai
+  - Qi Jia
+  - Binglin Qiu
+  - Weimin Wang
+  - Nan Pu
+  publisher: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2024-06-16'
+  link: https://doi.org/g9f7rd
+  type: paper
+  image: images/publications/2024/Novel_Class_Discovery_for_Ultra_Fine_Grained_Visual_Categorization.jpg
+  buttons:
+  - type: source
+    link: https://github.com/SSDUT-Caiyq/UFG-NCD
+  tags:
+  - CCF-A
+  - CVPR
+  - Poster Highlight
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1016/j.CVIU.2024.104197
+  title: 'PMGNet: Disentanglement and entanglement benefit mutually for compositional
+    zero-shot learning'
+  authors:
+  - Yu Liu
+  - Jianghao Li
+  - Yanyi Zhang
+  - Qi Jia
+  - Weimin Wang
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2024-12-01'
+  link: https://doi.org/g9f7vw
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1016/j.CVIU.2024.104209
+  title: Bilevel progressive homography estimation via correlative region-focused
+    transformer
+  authors:
+  - Qi Jia
+  - Xiaomei Feng
+  - Wei Zhang
+  - Yu Liu
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2025-01-01'
+  link: https://doi.org/g9f7nz
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: arXiv:2411.01739
+  title: 'Not Just Object, But State: Compositional Incremental Learning without Forgetting'
+  authors:
+  - Yanyi Zhang
+  - Binglin Qiu
+  - Qi Jia
+  - Yu Liu
+  - Ran He
+  publisher: arXiv
+  date: '2024-12-12'
+  link: https://arxiv.org/abs/2411.01739
+  type: paper
+  image: images/publications/2024/Not_Just_Object_But_State_Compositional_Incremental_Learning_without_Forgetting.jpg
+  buttons:
+  - type: source
+    link: https://github.com/Yanyi-Zhang/CompILer
+  tags:
+  - CCF-A
+  - NeurIPS
+  repo: Yanyi-Zhang/CompILer
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1145/3664647.3680927
+  title: 'Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot
+    HOI Detection'
+  authors:
+  - Yixin Guo
+  - Yu Liu
+  - Jianghao Li
+  - Weimin Wang
+  - Qi Jia
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9f7v5
+  type: paper
+  buttons:
+  - type: source
+    link: https://github.com/soberguo/HOIGen
+  tags:
+  - CCF-A
+  - ACM-MM
+  repo: soberguo/HOIGen
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1145/3664647.3680957
+  title: 'Two Teachers Are Better Than One: Semi-supervised Elliptical Object Detection
+    by Dual-Teacher Collaborative Guidance'
+  authors:
+  - Yu Liu
+  - Longhan Feng
+  - Qi Jia
+  - Zezheng Liu
+  - Zi-Huang Cao
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://doi.org/g9f7wd
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1007/s10462-024-10841-z
+  title: 'Generation and Countermeasures of adversarial examples on vision: a survey'
+  authors:
+  - Jiangfan Liu
+  - Yishan Li
+  - Yanming Guo
+  - Yu Liu
+  - Jun Tang
+  - Ying Nie
+  publisher: Artificial Intelligence Review
+  date: '2024-07-08'
+  link: https://doi.org/g8rst2
+  type: journal
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICME57554.2024.10687757
+  title: Joint edge detection learning for recurrent homography estimation
+  authors:
+  - Qi Jia
+  - Zikun Zhao
+  - Xiaomei Feng
+  - Jinyuan Liu
+  - Yu Liu
+  - Xinwei Xue
+  publisher: 2024 IEEE International Conference on Multimedia and Expo (ICME)
+  date: '2024-07-15'
+  link: https://doi.org/g9f7wr
+  type: paper
+  tags:
+  - CCF-B
+  - ICME
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICME57554.2024.10687409
+  title: Fuzzy Boundary-Guided Network for Camouflaged Object Detection
+  authors:
+  - Qi Jia
+  - Shuilian Yao
+  - Youcan Xu
+  - Yu Liu
+  - Dehao Kong
+  - Longin Jan Latecki
+  publisher: 2024 IEEE International Conference on Multimedia and Expo (ICME)
+  date: '2024-07-15'
+  link: https://doi.org/g8kvzp
+  type: paper
+  tags:
+  - CCF-B
+  - ICME
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICME57554.2024.10687954
+  title: 'MergeNet: Explicit Mesh Reconstruction from Sparse Point Clouds via Edge
+    Prediction'
+  authors:
+  - Weimin Wang
+  - Yingxu Deng
+  - Zezeng Li
+  - Yu Liu
+  - Na Lei
+  publisher: 2024 IEEE International Conference on Multimedia and Expo (ICME)
+  date: '2024-07-15'
+  link: https://doi.org/g9f7w2
+  type: paper
+  tags:
+  - CCF-B
+  - ICME
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICASSP48485.2024.10446756
+  title: 'CSCNet: Class-Specified Cascaded Network for Compositional Zero-Shot Learning'
+  authors:
+  - Yanyi Zhang
+  - Qi Jia
+  - Xin Fan
+  - Yu Liu
+  - Ran He
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g9f7w4
+  type: paper
+  tags:
+  - CCF-B
+  - ICASSP
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICASSP48485.2024.10446158
+  title: Depth-Guided Dominant Plane Perception for Unsupervised Homography Estimation
+  authors:
+  - Xiaomei Feng
+  - Qi Jia
+  - Yu Liu
+  - Xin Fan
+  - Longin Jan Latecki
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g9f7w5
+  type: paper
+  tags:
+  - CCF-B
+  - ICASSP
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICASSP48485.2024.10446103
+  title: Sketch-Based 3D Shape Retrieval With Multi-View Fusion Transformer
+  authors:
+  - Cunjuan Zhu
+  - Dongdong Cui
+  - Qi Jia
+  - Weimin Wang
+  - Yu Liu
+  - Michael S. Lew
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g9f7w6
+  type: paper
+  tags:
+  - CCF-B
+  - ICASSP
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/ICASSP48485.2024.10447340
+  title: Attribution-Based Scanline Perturbation Attack on 3d Detectors of Lidar Point
+    Clouds
+  authors:
+  - Ziyang Yu
+  - Ting Yang
+  - Qiong Chang
+  - Yu Liu
+  - Weimin Wang
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g9f7w7
+  type: paper
+  tags:
+  - CCF-B
+  - ICASSP
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1007/s00371-023-03123-2
+  title: A rotation robust shape transformer for cartoon character recognition
+  authors:
+  - Qi Jia
+  - Xinyu Chen
+  - Yi Wang
+  - Xin Fan
+  - Haibin Ling
+  - Longin Jan Latecki
+  publisher: The Visual Computer
+  date: '2023-10-27'
+  link: https://doi.org/g9f89n
+  type: journal
+  tags:
+  - CCF-C
+  - JCR-Q2
+  - TVC
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1016/j.patcog.2024.110579
+  title: 'WBNet: Weakly-supervised salient object detection via scribble and pseudo-background
+    priors'
+  authors:
+  - Yi Wang
+  - Ruili Wang
+  - Xiangjian He
+  - Chi Lin
+  - Tianzhu Wang
+  - Qi Jia
+  - Xin Fan
+  publisher: Pattern Recognition
+  date: '2024-10-01'
+  link: https://doi.org/g9f9bz
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - PR
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1016/j.jaci.2023.12.023
+  title: Target genes regulated by CLEC16A intronic region associated with common
+    variable immunodeficiency
+  authors:
+  - Xubo Huang
+  - Jinxia Huang
+  - Xiumei Li
+  - Jingxian Fan
+  - Desheng Zhou
+  - Hui-Qi Qu
+  - Joseph T. Glessner
+  - Dandan Ji
+  - Qi Jia
+  - Zhiyong Ding
+  - Nan Wang
+  - Wei Wei
+  - Xing Lyu
+  - Mulin Jun Li
+  - Zhe Liu
+  - Wei Liu
+  - Yongjie Wei
+  - Hakon Hakonarson
+  - Qianghua Xia
+  - Jin Li
+  publisher: Journal of Allergy and Clinical Immunology
+  date: '2024-06-01'
+  link: https://doi.org/g9f9cd
+  type: journal
+  tags:
+  - JCR-Q1
+  plugin: sources.py
+  file: sources-2024.yaml
+- id: doi:10.1109/TMM.2021.3073279
+  title: Feature Estimations Based Correlation Distillation for Incremental Image
+    Retrieval
+  authors:
+  - Wei Chen
+  - Yu Liu
+  - Nan Pu
+  - Weiping Wang
+  - Li Liu
+  - Michael S. Lew
+  publisher: IEEE Transactions on Multimedia
+  date: '2022-01-01'
+  link: https://doi.org/g9f88f
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TMM
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1145/3503161.3548234
+  title: Meta Reconciliation Normalization for Lifelong Person Re-Identification
+  authors:
+  - Nan Pu
+  - Yu Liu
+  - Wei Chen
+  - Erwin M. Bakker
+  - Michael S. Lew
+  publisher: Proceedings of the 30th ACM International Conference on Multimedia
+  date: '2022-10-10'
+  link: https://doi.org/g9f88k
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1109/CVPR52688.2022.00467
+  title: 'Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way'
+  authors:
+  - Qi Jia
+  - Shuilian Yao
+  - Yu Liu
+  - Xin Fan
+  - Risheng Liu
+  - Zhongxuan Luo
+  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2022-06-01'
+  link: https://doi.org/g9f88m
+  type: paper
+  image: images/publications/2022/Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way.png
+  buttons:
+  - type: source
+  - link: https://github.com/dlut-dimt/SegMaR
+  repo: dlut-dimt/SegMaR
+  tags:
+  - CCF-A
+  - CVPR
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1109/TNNLS.2022.3191674
+  title: Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution
+  authors:
+  - Yuqing Liu
+  - Qi Jia
+  - Jian Zhang
+  - Xin Fan
+  - Shanshe Wang
+  - Siwei Ma
+  - Wen Gao
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2024-02-01'
+  link: https://doi.org/g5gbzm
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TNNLS
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1016/j.cviu.2024.104209
+  title: Bilevel progressive homography estimation via correlative region-focused
+    transformer
+  authors:
+  - Qi Jia
+  - Xiaomei Feng
+  - Wei Zhang
+  - Yu Liu
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2025-01-01'
+  link: https://doi.org/g9f7nz
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1609/aaai.v39i9.33020
+  title: 'As Pseudo-Label Free as Possible: Leveraging Adaptive Feature Generation
+    for Sparsely Annotated Object Detection'
+  authors:
+  - Shuilian Yao
+  - Yu Liu
+  - Qi Jia
+  - Sihong Chen
+  - Wei Zhuo
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2025-04-11'
+  link: https://doi.org/g9f7mc
+  type: paper
+  tags:
+  - CCF-A
+  - AAAI
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1109/TMM.2025.3535285
+  title: Rectangling for Stitched Image via Pixel-wise Deformation Learning
+  authors:
+  - Xiaomei Feng
+  - Qi Jia
+  - Yu Liu
+  - Weimin Wang
+  - Yuqing Liu
+  - Xinwei Xue
+  publisher: IEEE Transactions on Multimedia
+  date: '2025-01-01'
+  link: https://doi.org/g9f877
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TMM
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1016/j.cviu.2024.104197
+  title: 'PMGNet: Disentanglement and entanglement benefit mutually for compositional
+    zero-shot learning'
+  authors:
+  - Yu Liu
+  - Jianghao Li
+  - Yanyi Zhang
+  - Qi Jia
+  - Weimin Wang
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2024-12-01'
+  link: https://doi.org/g9f7vw
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2025.yaml

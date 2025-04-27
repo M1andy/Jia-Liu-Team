@@ -1,0 +1,32 @@
+# 刘宇
+- id: doi:10.1109/TMM.2021.3073279
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TMM
+
+- id: doi:10.1145/3503161.3548234
+  type: paper
+  tags:
+    - CCF-A
+    - ACM-MM
+
+- id: doi:10.1109/CVPR52688.2022.00467
+  type: paper
+  image: images/publications/2022/Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way.png
+  buttons:
+    - type: source
+    - link: https://github.com/dlut-dimt/SegMaR
+  repo: dlut-dimt/SegMaR
+  tags:
+    - CCF-A
+    - CVPR
+
+# 贾棋
+- id: doi:10.1109/TNNLS.2022.3191674
+  type: journal
+  tags:
+    - CCF-B
+    - JCR-Q1
+    - TNNLS
