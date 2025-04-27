@@ -38,6 +38,19 @@
   max-height: unset;
 }
 
+.grid[data-style=rect] {
+  align-items: center;
+}
+.grid[data-style=rect] > * {
+  aspect-ratio: 4/3;
+}
+.grid[data-style=rect] img {
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  max-width: unset;
+  max-height: unset;
+}
+
 .grid > :where(h1, h2, h3, h4, h5, h6) {
   display: none;
 }

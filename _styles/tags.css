@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .tags {
   display: flex;
   justify-content: center;
@@ -23,11 +24,11 @@
 }
 
 .tag:hover {
-  background: var(--light-gray);
+  background: #0ca8f0;
 }
 
 .tag[data-active] {
-  background: var(--light-gray);
+  background: #8bc34a; /* 使用强调色作为背景 */
 }
 
 /*# sourceMappingURL=tags.css.map */

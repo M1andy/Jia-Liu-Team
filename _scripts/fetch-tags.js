@@ -20,7 +20,7 @@
 
       // filter out tags already present in row
       let existing = [...row.querySelectorAll(".tag")].map((tag) =>
-        window.normalizeTag(tag.innerText)
+        window.normalizeTag(tag.innerText),
       );
       tags = tags.filter((tag) => !existing.includes(normalizeTag(tag)));
 
