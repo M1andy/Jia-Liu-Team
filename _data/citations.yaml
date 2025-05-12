@@ -459,84 +459,6 @@
   - TCSVT
   plugin: sources.py
   file: sources-2023.yaml
-- id: doi:10.1016/j.cviu.2024.104209
-  title: Bilevel progressive homography estimation via correlative region-focused
-    transformer
-  authors:
-  - Qi Jia
-  - Xiaomei Feng
-  - Wei Zhang
-  - Yu Liu
-  - Nan Pu
-  - Nicu Sebe
-  publisher: Computer Vision and Image Understanding
-  date: '2025-01-01'
-  link: https://doi.org/g9f7nz
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q2
-  - CVIU
-  plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1609/aaai.v39i9.33020
-  title: 'As Pseudo-Label Free as Possible: Leveraging Adaptive Feature Generation
-    for Sparsely Annotated Object Detection'
-  authors:
-  - Shuilian Yao
-  - Yu Liu
-  - Qi Jia
-  - Sihong Chen
-  - Wei Zhuo
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-  date: '2025-04-11'
-  link: https://doi.org/g9f7mc
-  type: paper
-  tags:
-  - CCF-A
-  - AAAI
-  plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1109/TMM.2025.3535285
-  title: Rectangling for Stitched Image via Pixel-wise Deformation Learning
-  authors:
-  - Xiaomei Feng
-  - Qi Jia
-  - Yu Liu
-  - Weimin Wang
-  - Yuqing Liu
-  - Xinwei Xue
-  publisher: IEEE Transactions on Multimedia
-  date: '2025-01-01'
-  link: https://doi.org/g9f877
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q1
-  - TMM
-  plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1016/j.cviu.2024.104197
-  title: 'PMGNet: Disentanglement and entanglement benefit mutually for compositional
-    zero-shot learning'
-  authors:
-  - Yu Liu
-  - Jianghao Li
-  - Yanyi Zhang
-  - Qi Jia
-  - Weimin Wang
-  - Nan Pu
-  - Nicu Sebe
-  publisher: Computer Vision and Image Understanding
-  date: '2024-12-01'
-  link: https://doi.org/g9f7vw
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q2
-  - CVIU
-  plugin: sources.py
-  file: sources-2025.yaml
 - id: doi:10.1109/TNNLS.2022.3140235
   title: 'Residual Tuning: Toward Novel Category Discovery Without Labels'
   authors:
@@ -725,6 +647,84 @@
   - PR
   plugin: sources.py
   file: sources-2023.yaml
+- id: doi:10.1016/j.cviu.2024.104209
+  title: Bilevel progressive homography estimation via correlative region-focused
+    transformer
+  authors:
+  - Qi Jia
+  - Xiaomei Feng
+  - Wei Zhang
+  - Yu Liu
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2025-01-01'
+  link: https://doi.org/g9f7nz
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1609/aaai.v39i9.33020
+  title: 'As Pseudo-Label Free as Possible: Leveraging Adaptive Feature Generation
+    for Sparsely Annotated Object Detection'
+  authors:
+  - Shuilian Yao
+  - Yu Liu
+  - Qi Jia
+  - Sihong Chen
+  - Wei Zhuo
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2025-04-11'
+  link: https://doi.org/g9f7mc
+  type: paper
+  tags:
+  - CCF-A
+  - AAAI
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1109/TMM.2025.3535285
+  title: Rectangling for Stitched Image via Pixel-wise Deformation Learning
+  authors:
+  - Xiaomei Feng
+  - Qi Jia
+  - Yu Liu
+  - Weimin Wang
+  - Yuqing Liu
+  - Xinwei Xue
+  publisher: IEEE Transactions on Multimedia
+  date: '2025-01-01'
+  link: https://doi.org/g9f877
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TMM
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1016/j.cviu.2024.104197
+  title: 'PMGNet: Disentanglement and entanglement benefit mutually for compositional
+    zero-shot learning'
+  authors:
+  - Yu Liu
+  - Jianghao Li
+  - Yanyi Zhang
+  - Qi Jia
+  - Weimin Wang
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2024-12-01'
+  link: https://doi.org/g9f7vw
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2025.yaml
 - id: doi:10.1016/j.patcog.2021.107983
   title: Integrating information theory and adversarial learning for cross-modal retrieval
   authors:
