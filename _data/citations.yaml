@@ -19,86 +19,213 @@
   - CCF-B
   - JCR-Q1
   - RA-L
-- id: doi:10.1109/TMM.2021.3073279
-  title: Feature Estimations Based Correlation Distillation for Incremental Image
-    Retrieval
+- id: doi:10.1016/j.cviu.2024.104209
+  title: Bilevel progressive homography estimation via correlative region-focused
+    transformer
   authors:
-  - Wei Chen
+  - Qi Jia
+  - Xiaomei Feng
+  - Wei Zhang
   - Yu Liu
   - Nan Pu
-  - Weiping Wang
-  - Li Liu
-  - Michael S. Lew
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2025-01-01'
+  link: https://doi.org/g9f7nz
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1609/aaai.v39i9.33020
+  title: 'As Pseudo-Label Free as Possible: Leveraging Adaptive Feature Generation
+    for Sparsely Annotated Object Detection'
+  authors:
+  - Shuilian Yao
+  - Yu Liu
+  - Qi Jia
+  - Sihong Chen
+  - Wei Zhuo
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2025-04-11'
+  link: https://doi.org/g9f7mc
+  type: paper
+  tags:
+  - CCF-A
+  - AAAI
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1109/TMM.2025.3535285
+  title: Rectangling for Stitched Image via Pixel-wise Deformation Learning
+  authors:
+  - Xiaomei Feng
+  - Qi Jia
+  - Yu Liu
+  - Weimin Wang
+  - Yuqing Liu
+  - Xinwei Xue
   publisher: IEEE Transactions on Multimedia
-  date: '2022-01-01'
-  link: https://doi.org/g9f88f
+  date: '2025-01-01'
+  link: https://doi.org/g9f877
   type: journal
   tags:
   - CCF-B
   - JCR-Q1
   - TMM
   plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1145/3503161.3548234
-  title: Meta Reconciliation Normalization for Lifelong Person Re-Identification
+  file: sources-2025.yaml
+- id: doi:10.1016/j.cviu.2024.104197
+  title: 'PMGNet: Disentanglement and entanglement benefit mutually for compositional
+    zero-shot learning'
   authors:
-  - Nan Pu
   - Yu Liu
+  - Jianghao Li
+  - Yanyi Zhang
+  - Qi Jia
+  - Weimin Wang
+  - Nan Pu
+  - Nicu Sebe
+  publisher: Computer Vision and Image Understanding
+  date: '2024-12-01'
+  link: https://doi.org/g9f7vw
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q2
+  - CVIU
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1016/j.patcog.2021.107983
+  title: Integrating information theory and adversarial learning for cross-modal retrieval
+  authors:
   - Wei Chen
+  - Yu Liu
   - Erwin M. Bakker
   - Michael S. Lew
-  publisher: Proceedings of the 30th ACM International Conference on Multimedia
-  date: '2022-10-10'
-  link: https://doi.org/g9f88k
+  publisher: Pattern Recognition
+  date: '2021-09-01'
+  link: https://doi.org/gjxkq4
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - PR
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1016/j.neucom.2020.10.071
+  title: Multi-stage hybrid embedding fusion network for visual question answering
+  authors:
+  - Mingrui Lao
+  - Yanming Guo
+  - Nan Pu
+  - Wei Chen
+  - Yu Liu
+  - Michael S. Lew
+  publisher: Neurocomputing
+  date: '2021-01-01'
+  link: https://doi.org/gh2gwn
+  type: journal
+  tags:
+  - CCF-C
+  - JCR-Q1
+  - Neurocomputing
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1145/3474085.3475492
+  title: 'From Superficial to Deep: Language Bias driven Curriculum Learning for Visual
+    Question Answering'
+  authors:
+  - Mingrui Lao
+  - Yanming Guo
+  - Yu Liu
+  - Wei Chen
+  - Nan Pu
+  - Michael S. Lew
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/g7krw4
   type: paper
   tags:
   - CCF-A
   - ACM-MM
   plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1109/CVPR52688.2022.00467
-  title: 'Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way'
+  file: sources-2021.yaml
+- id: doi:10.1145/3474085.3475563
+  title: Underwater Species Detection using Channel Sharpening Attention
   authors:
+  - Lihao Jiang
+  - Yi Wang
   - Qi Jia
-  - Shuilian Yao
+  - Shengwei Xu
   - Yu Liu
   - Xin Fan
+  - Haojie Li
   - Risheng Liu
-  - Zhongxuan Luo
-  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2022-06-01'
-  link: https://doi.org/g9f88m
+  - Xinwei Xue
+  - Ruili Wang
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/g9f88w
   type: paper
-  image: images/publications/2022/Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way.png
-  buttons:
-  - type: source
-  - link: https://github.com/dlut-dimt/SegMaR
-  repo: dlut-dimt/SegMaR
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1109/CVPR46437.2021.00781
+  title: Lifelong Person Re-Identification via Adaptive Knowledge Accumulation
+  authors:
+  - Nan Pu
+  - Wei Chen
+  - Yu Liu
+  - Erwin M. Bakker
+  - Michael S. Lew
+  publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2021-06-01'
+  link: https://doi.org/grkgmt
+  type: paper
   tags:
   - CCF-A
   - CVPR
   plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1109/TNNLS.2022.3191674
-  title: Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution
+  file: sources-2021.yaml
+- id: doi:10.1109/ICME51207.2021.9428165
+  title: A Language Prior Based Focal Loss for Visual Question Answering
+  authors:
+  - Mingrui Lao
+  - Yanming Guo
+  - Yu Liu
+  - Michael S. Lew
+  publisher: 2021 IEEE International Conference on Multimedia and Expo (ICME)
+  date: '2021-07-05'
+  link: https://doi.org/g6mrf8
+  type: paper
+  tags:
+  - CCF-B
+  - ICME
+  plugin: sources.py
+  file: sources-2021.yaml
+- id: doi:10.1109/TCSVT.2021.3138431
+  title: 'Cross-SRN: Structure-Preserving Super-Resolution Network With Cross Convolution'
   authors:
   - Yuqing Liu
   - Qi Jia
-  - Jian Zhang
   - Xin Fan
   - Shanshe Wang
   - Siwei Ma
   - Wen Gao
-  publisher: IEEE Transactions on Neural Networks and Learning Systems
-  date: '2024-02-01'
-  link: https://doi.org/g5gbzm
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  date: '2022-08-01'
+  link: https://doi.org/g9f9cf
   type: journal
   tags:
   - CCF-B
   - JCR-Q1
-  - TNNLS
+  - TCSVT
   plugin: sources.py
-  file: sources-2022.yaml
+  file: sources-2021.yaml
 - id: doi:10.1109/CVPR52733.2024.01674
   title: Novel Class Discovery for Ultra-Fine-Grained Visual Categorization
   authors:
@@ -647,210 +774,83 @@
   - PR
   plugin: sources.py
   file: sources-2023.yaml
-- id: doi:10.1016/j.cviu.2024.104209
-  title: Bilevel progressive homography estimation via correlative region-focused
-    transformer
+- id: doi:10.1109/TMM.2021.3073279
+  title: Feature Estimations Based Correlation Distillation for Incremental Image
+    Retrieval
   authors:
-  - Qi Jia
-  - Xiaomei Feng
-  - Wei Zhang
+  - Wei Chen
   - Yu Liu
   - Nan Pu
-  - Nicu Sebe
-  publisher: Computer Vision and Image Understanding
-  date: '2025-01-01'
-  link: https://doi.org/g9f7nz
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q2
-  - CVIU
-  plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1609/aaai.v39i9.33020
-  title: 'As Pseudo-Label Free as Possible: Leveraging Adaptive Feature Generation
-    for Sparsely Annotated Object Detection'
-  authors:
-  - Shuilian Yao
-  - Yu Liu
-  - Qi Jia
-  - Sihong Chen
-  - Wei Zhuo
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-  date: '2025-04-11'
-  link: https://doi.org/g9f7mc
-  type: paper
-  tags:
-  - CCF-A
-  - AAAI
-  plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1109/TMM.2025.3535285
-  title: Rectangling for Stitched Image via Pixel-wise Deformation Learning
-  authors:
-  - Xiaomei Feng
-  - Qi Jia
-  - Yu Liu
-  - Weimin Wang
-  - Yuqing Liu
-  - Xinwei Xue
+  - Weiping Wang
+  - Li Liu
+  - Michael S. Lew
   publisher: IEEE Transactions on Multimedia
-  date: '2025-01-01'
-  link: https://doi.org/g9f877
+  date: '2022-01-01'
+  link: https://doi.org/g9f88f
   type: journal
   tags:
   - CCF-B
   - JCR-Q1
   - TMM
   plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1016/j.cviu.2024.104197
-  title: 'PMGNet: Disentanglement and entanglement benefit mutually for compositional
-    zero-shot learning'
+  file: sources-2022.yaml
+- id: doi:10.1145/3503161.3548234
+  title: Meta Reconciliation Normalization for Lifelong Person Re-Identification
   authors:
-  - Yu Liu
-  - Jianghao Li
-  - Yanyi Zhang
-  - Qi Jia
-  - Weimin Wang
   - Nan Pu
-  - Nicu Sebe
-  publisher: Computer Vision and Image Understanding
-  date: '2024-12-01'
-  link: https://doi.org/g9f7vw
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q2
-  - CVIU
-  plugin: sources.py
-  file: sources-2025.yaml
-- id: doi:10.1016/j.patcog.2021.107983
-  title: Integrating information theory and adversarial learning for cross-modal retrieval
-  authors:
-  - Wei Chen
   - Yu Liu
+  - Wei Chen
   - Erwin M. Bakker
   - Michael S. Lew
-  publisher: Pattern Recognition
-  date: '2021-09-01'
-  link: https://doi.org/gjxkq4
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q1
-  - PR
-  plugin: sources.py
-  file: sources-2021.yaml
-- id: doi:10.1016/j.neucom.2020.10.071
-  title: Multi-stage hybrid embedding fusion network for visual question answering
-  authors:
-  - Mingrui Lao
-  - Yanming Guo
-  - Nan Pu
-  - Wei Chen
-  - Yu Liu
-  - Michael S. Lew
-  publisher: Neurocomputing
-  date: '2021-01-01'
-  link: https://doi.org/gh2gwn
-  type: journal
-  tags:
-  - CCF-C
-  - JCR-Q1
-  - Neurocomputing
-  plugin: sources.py
-  file: sources-2021.yaml
-- id: doi:10.1145/3474085.3475492
-  title: 'From Superficial to Deep: Language Bias driven Curriculum Learning for Visual
-    Question Answering'
-  authors:
-  - Mingrui Lao
-  - Yanming Guo
-  - Yu Liu
-  - Wei Chen
-  - Nan Pu
-  - Michael S. Lew
-  publisher: Proceedings of the 29th ACM International Conference on Multimedia
-  date: '2021-10-17'
-  link: https://doi.org/g7krw4
+  publisher: Proceedings of the 30th ACM International Conference on Multimedia
+  date: '2022-10-10'
+  link: https://doi.org/g9f88k
   type: paper
   tags:
   - CCF-A
   - ACM-MM
   plugin: sources.py
-  file: sources-2021.yaml
-- id: doi:10.1145/3474085.3475563
-  title: Underwater Species Detection using Channel Sharpening Attention
+  file: sources-2022.yaml
+- id: doi:10.1109/CVPR52688.2022.00467
+  title: 'Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way'
   authors:
-  - Lihao Jiang
-  - Yi Wang
   - Qi Jia
-  - Shengwei Xu
+  - Shuilian Yao
   - Yu Liu
   - Xin Fan
-  - Haojie Li
   - Risheng Liu
-  - Xinwei Xue
-  - Ruili Wang
-  publisher: Proceedings of the 29th ACM International Conference on Multimedia
-  date: '2021-10-17'
-  link: https://doi.org/g9f88w
+  - Zhongxuan Luo
+  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2022-06-01'
+  link: https://doi.org/g9f88m
   type: paper
-  tags:
-  - CCF-A
-  - ACM-MM
-  plugin: sources.py
-  file: sources-2021.yaml
-- id: doi:10.1109/CVPR46437.2021.00781
-  title: Lifelong Person Re-Identification via Adaptive Knowledge Accumulation
-  authors:
-  - Nan Pu
-  - Wei Chen
-  - Yu Liu
-  - Erwin M. Bakker
-  - Michael S. Lew
-  publisher: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2021-06-01'
-  link: https://doi.org/grkgmt
-  type: paper
+  image: images/publications/2022/Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way.png
+  buttons:
+  - type: source
+  - link: https://github.com/dlut-dimt/SegMaR
+  repo: dlut-dimt/SegMaR
   tags:
   - CCF-A
   - CVPR
   plugin: sources.py
-  file: sources-2021.yaml
-- id: doi:10.1109/ICME51207.2021.9428165
-  title: A Language Prior Based Focal Loss for Visual Question Answering
-  authors:
-  - Mingrui Lao
-  - Yanming Guo
-  - Yu Liu
-  - Michael S. Lew
-  publisher: 2021 IEEE International Conference on Multimedia and Expo (ICME)
-  date: '2021-07-05'
-  link: https://doi.org/g6mrf8
-  type: paper
-  tags:
-  - CCF-B
-  - ICME
-  plugin: sources.py
-  file: sources-2021.yaml
-- id: doi:10.1109/TCSVT.2021.3138431
-  title: 'Cross-SRN: Structure-Preserving Super-Resolution Network With Cross Convolution'
+  file: sources-2022.yaml
+- id: doi:10.1109/TNNLS.2022.3191674
+  title: Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution
   authors:
   - Yuqing Liu
   - Qi Jia
+  - Jian Zhang
   - Xin Fan
   - Shanshe Wang
   - Siwei Ma
   - Wen Gao
-  publisher: IEEE Transactions on Circuits and Systems for Video Technology
-  date: '2022-08-01'
-  link: https://doi.org/g9f9cf
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2024-02-01'
+  link: https://doi.org/g5gbzm
   type: journal
   tags:
   - CCF-B
   - JCR-Q1
-  - TCSVT
+  - TNNLS
   plugin: sources.py
-  file: sources-2021.yaml
+  file: sources-2022.yaml
