@@ -1,6 +1,6 @@
 ---
 name: 杨阳
-image: images/team/unknown.jpg
+image: images/team/students/undergrads/2021/yangyang.jpg
 role: pass-undergrad
 description: 2021级硕士生
 affiliation:

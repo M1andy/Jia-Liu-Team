@@ -1,6 +1,6 @@
 ---
 name: 朱存涓
-image: images/team/unknown.jpg
+image: images/team/students/undergrads/2021/zhucunjuan.JPG
 role: pass-undergrad
 description: 2021级硕士生
 affiliation:

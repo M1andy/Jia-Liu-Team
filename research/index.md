@@ -1,7 +1,7 @@
 ---
 title: 研究成果
 nav:
-  order: 1
+  order: 2
   tooltip: 已发表工作
 ---
 

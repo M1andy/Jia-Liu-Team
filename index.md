@@ -10,6 +10,21 @@
 
 {% include section.html %}
 
+## 新闻公告
+
+{% include list.html data="posts" component="news-item" %}
+
+{%
+  include button.html
+  link="news"
+  text="查看全部新闻"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% include section.html %}
+
 ## 实验室介绍
 
 {% capture text %}
@@ -44,7 +59,7 @@
 
 目前（2025年）在校博士研究生5名，在校硕士研究生20名。
 
-本实验室秉承“全面发展，科研育人”理念，着力培养兼具学术素养与综合能力的新时代人才。
+本实验室秉承"全面发展，科研育人"理念，着力培养兼具学术素养与综合能力的新时代人才。
 科研方面，通过多导师指导、定期组会研讨及专题培训，助力学生深耕专业领域，
 近年人均参与发表高水平学术论文1-2篇，成果丰硕，
 同时大力支持研究生参加国内外学术会议，通过学术报告、海报展示等形式与领域专家深度交流，有效拓展学术视野。
@@ -67,3 +82,22 @@
   title="团队介绍"
   text=text
 %}
+
+{% include section.html %}
+
+## 实验室生活
+
+实验室倡导"科研健康两不误"，定期组织登山、踏青等团建活动，设有年度运动基金支持羽毛球、健身等多样化活动，营造温暖有活力的团队氛围。
+
+{% capture content %}
+
+{% include figure.html image="images/groups/family-1.jpg" caption="实验室团建" %}
+{% include figure.html image="images/groups/family-3.jpg" caption="毕业合照" %}
+{% include figure.html image="images/groups/hiking-1.jpg" caption="登山活动" %}
+{% include figure.html image="images/groups/family-2.jpg" caption="实验室团建" %}
+{% include figure.html image="images/groups/family-4.jpg" caption="毕业合照" %}
+{% include figure.html image="images/groups/hiking-2.jpg" caption="登山活动" %}
+
+{% endcapture %}
+
+{% include grid.html style="rect" content=content %}

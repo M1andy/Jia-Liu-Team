@@ -1,0 +1,13 @@
+{% if include.lookup %}
+  {% assign post = site.posts
+    | where_exp: "post", "post.slug == include.lookup"
+    | first
+    | default: include
+  %}
+{% else %}
+  {% assign post = include %}
+{% endif %}
+
+<div class="news-item">
+  {{ post.content }}
+</div>

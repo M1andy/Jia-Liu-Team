@@ -1,7 +1,7 @@
 ---
 title: 加入我们
 nav:
-  order: 3
+  order: 4
   tooltip: 招生要求及联系方式
 ---
 

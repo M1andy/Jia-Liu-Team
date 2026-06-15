@@ -19,86 +19,6 @@
   - CCF-B
   - JCR-Q1
   - RA-L
-- id: doi:10.1109/TMM.2021.3073279
-  title: Feature Estimations Based Correlation Distillation for Incremental Image
-    Retrieval
-  authors:
-  - Wei Chen
-  - Yu Liu
-  - Nan Pu
-  - Weiping Wang
-  - Li Liu
-  - Michael S. Lew
-  publisher: IEEE Transactions on Multimedia
-  date: '2022-01-01'
-  link: https://doi.org/g9f88f
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q1
-  - TMM
-  plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1145/3503161.3548234
-  title: Meta Reconciliation Normalization for Lifelong Person Re-Identification
-  authors:
-  - Nan Pu
-  - Yu Liu
-  - Wei Chen
-  - Erwin M. Bakker
-  - Michael S. Lew
-  publisher: Proceedings of the 30th ACM International Conference on Multimedia
-  date: '2022-10-10'
-  link: https://doi.org/g9f88k
-  type: paper
-  tags:
-  - CCF-A
-  - ACM-MM
-  plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1109/CVPR52688.2022.00467
-  title: 'Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way'
-  authors:
-  - Qi Jia
-  - Shuilian Yao
-  - Yu Liu
-  - Xin Fan
-  - Risheng Liu
-  - Zhongxuan Luo
-  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2022-06-01'
-  link: https://doi.org/g9f88m
-  type: paper
-  image: images/publications/2022/Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way.png
-  buttons:
-  - type: source
-  - link: https://github.com/dlut-dimt/SegMaR
-  repo: dlut-dimt/SegMaR
-  tags:
-  - CCF-A
-  - CVPR
-  plugin: sources.py
-  file: sources-2022.yaml
-- id: doi:10.1109/TNNLS.2022.3191674
-  title: Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution
-  authors:
-  - Yuqing Liu
-  - Qi Jia
-  - Jian Zhang
-  - Xin Fan
-  - Shanshe Wang
-  - Siwei Ma
-  - Wen Gao
-  publisher: IEEE Transactions on Neural Networks and Learning Systems
-  date: '2024-02-01'
-  link: https://doi.org/g5gbzm
-  type: journal
-  tags:
-  - CCF-B
-  - JCR-Q1
-  - TNNLS
-  plugin: sources.py
-  file: sources-2022.yaml
 - id: doi:10.1109/CVPR52733.2024.01674
   title: Novel Class Discovery for Ultra-Fine-Grained Visual Categorization
   authors:
@@ -459,6 +379,86 @@
   - TCSVT
   plugin: sources.py
   file: sources-2023.yaml
+- id: doi:10.1109/TMM.2021.3073279
+  title: Feature Estimations Based Correlation Distillation for Incremental Image
+    Retrieval
+  authors:
+  - Wei Chen
+  - Yu Liu
+  - Nan Pu
+  - Weiping Wang
+  - Li Liu
+  - Michael S. Lew
+  publisher: IEEE Transactions on Multimedia
+  date: '2022-01-01'
+  link: https://doi.org/g9f88f
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TMM
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1145/3503161.3548234
+  title: Meta Reconciliation Normalization for Lifelong Person Re-Identification
+  authors:
+  - Nan Pu
+  - Yu Liu
+  - Wei Chen
+  - Erwin M. Bakker
+  - Michael S. Lew
+  publisher: Proceedings of the 30th ACM International Conference on Multimedia
+  date: '2022-10-10'
+  link: https://doi.org/g9f88k
+  type: paper
+  tags:
+  - CCF-A
+  - ACM-MM
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1109/CVPR52688.2022.00467
+  title: 'Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way'
+  authors:
+  - Qi Jia
+  - Shuilian Yao
+  - Yu Liu
+  - Xin Fan
+  - Risheng Liu
+  - Zhongxuan Luo
+  publisher: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2022-06-01'
+  link: https://doi.org/g9f88m
+  type: paper
+  image: images/publications/2022/Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way.png
+  buttons:
+  - type: source
+  - link: https://github.com/dlut-dimt/SegMaR
+  repo: dlut-dimt/SegMaR
+  tags:
+  - CCF-A
+  - CVPR
+  plugin: sources.py
+  file: sources-2022.yaml
+- id: doi:10.1109/TNNLS.2022.3191674
+  title: Hierarchical Similarity Learning for Aliasing Suppression Image Super-Resolution
+  authors:
+  - Yuqing Liu
+  - Qi Jia
+  - Jian Zhang
+  - Xin Fan
+  - Shanshe Wang
+  - Siwei Ma
+  - Wen Gao
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2024-02-01'
+  link: https://doi.org/g5gbzm
+  type: journal
+  tags:
+  - CCF-B
+  - JCR-Q1
+  - TNNLS
+  plugin: sources.py
+  file: sources-2022.yaml
 - id: doi:10.1109/TNNLS.2022.3140235
   title: 'Residual Tuning: Toward Novel Category Discovery Without Labels'
   authors:
@@ -686,7 +686,7 @@
   plugin: sources.py
   file: sources-2025.yaml
 - id: doi:10.1109/TMM.2025.3535285
-  title: Rectangling for Stitched Image via Pixel-wise Deformation Learning
+  title: Rectangling for Stitched Image via Pixel-Wise Deformation Learning
   authors:
   - Xiaomei Feng
   - Qi Jia

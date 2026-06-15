@@ -1,7 +1,7 @@
 ---
 title: 团队介绍
 nav:
-  order: 2
+  order: 3
   tooltip: 团队详细介绍
 ---
 
@@ -31,19 +31,3 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role =~ /^pass/" %}
 
-{% include section.html %}
-
-# {% include icon.html icon="fa-solid fa-users" %}团队合照
-
-{% capture content %}
-
-{% include figure.html image="images/groups/family-1.jpg" caption="实验室团建" %}
-{% include figure.html image="images/groups/family-3.jpg" caption="2024届实验室毕业合照" %}
-{% include figure.html image="images/groups/hiking-1.jpg" caption="实验室同学组织爬山" %}
-{% include figure.html image="images/groups/family-2.jpg" caption="实验室团建" %}
-{% include figure.html image="images/groups/family-4.jpg" caption="2024届实验室毕业合照" %}
-{% include figure.html image="images/groups/hiking-2.jpg" caption="实验室同学组织爬山" %}
-
-{% endcapture %}
-
-{% include grid.html style="rect" content=content %}
