@@ -1,0 +1,25 @@
+{% assign photos = site.static_files
+  | where_exp: "file", "file.path contains include.dir"
+%}
+
+{% assign years = photos
+  | group_by_exp: "photo", "photo.basename | slice: 0, 4"
+  | sort: "name"
+  | reverse
+%}
+
+{% for year in years %}
+  <h2 id="{{ year.name }}">{{ year.name }}</h2>
+
+  {% capture content %}
+    {% assign year_photos = year.items | sort: "basename" %}
+    {% for photo in year_photos %}
+      {% assign ext = photo.extname | downcase %}
+      {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".gif" or ext == ".webp" %}
+{% include figure.html image=photo.path %}
+      {% endif %}
+    {% endfor %}
+  {% endcapture %}
+
+  {% include grid.html style="rect" content=content %}
+{% endfor %}

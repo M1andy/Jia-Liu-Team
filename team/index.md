@@ -19,15 +19,30 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}博士生
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+### 2023级博士生
+
+{% include list.html data="members" component="portrait" filter="role == 'phd' and affiliation == '2023级博士生'" %}
+
+### 2024级博士生
+
+{% include list.html data="members" component="portrait" filter="role == 'phd' and affiliation == '2024级博士生'" %}
+
+### 2026级博士生
+
+{% include list.html data="members" component="portrait" filter="role == 'phd' and affiliation == '2026级博士生'" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}硕士生
 
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
+### 2024级硕士生
+
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and affiliation == '2024级硕士生'" %}
+
+### 2025级硕士生
+
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and affiliation == '2025级硕士生'" %}
 
 {% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}往届学生
 
 {% include list.html data="members" component="portrait" filter="role =~ /^pass/" %}
-

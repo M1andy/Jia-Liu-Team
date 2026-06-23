@@ -1,6 +1,6 @@
 ---
 name: 李承洲
-image: images/team/unknown.jpg
+image: images/team/students/phds/2024/lichengzhou.jpg
 role: phd
 affiliation: 2024级博士生
 aliases:

@@ -12,3 +12,5 @@ package-lock.json
 yarn.lock
 node_modules
 .vscode
+.history
+.bundle-config-note.txt

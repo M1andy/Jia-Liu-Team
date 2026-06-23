@@ -1,4 +1,10 @@
 # 刘宇
+- id: doi:10.1145/3746027.3755152
+  type: paper
+  tags:
+    - CCF-A
+    - ACM
+
 - id: doi:10.1016/j.cviu.2024.104209
   type: journal
   tags:

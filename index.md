@@ -1,7 +1,7 @@
 ---
 ---
 
-# 贾棋/刘宇计算机视觉实验室
+# 实验室简介
 
 实验室主要研究目标分为通用人工智能和专用人工智能，
 前者包括多模态大模型、几何特征学习和生成式模型，
@@ -29,7 +29,7 @@
 
 {% capture text %}
 
-近三年（2022年至2025年）实验室发表CCF-A类论文12篇，CCF-B类论文15篇。
+近三年（2022年至2026年）实验室发表多篇CCF-A类，CCF-B类论文。
 
 主持国家自然科学基金原创探索项目1项，国家自然科学基金面上项目3项，
 国家自然科学基金青年项目2项，辽宁省自然科学基金2项，中央高校基本科研业务费资助项目等纵向项目；
@@ -57,7 +57,7 @@
 {% capture text %}
 
 
-目前（2025年）在校博士研究生5名，在校硕士研究生20名。
+目前（2026年）在校博士研究生4名，在校硕士研究生15名。
 
 本实验室秉承"全面发展，科研育人"理念，着力培养兼具学术素养与综合能力的新时代人才。
 科研方面，通过多导师指导、定期组会研讨及专题培训，助力学生深耕专业领域，
@@ -91,13 +91,10 @@
 
 {% capture content %}
 
-{% include figure.html image="images/groups/family-1.jpg" caption="实验室团建" %}
-{% include figure.html image="images/groups/family-3.jpg" caption="毕业合照" %}
-{% include figure.html image="images/groups/hiking-1.jpg" caption="登山活动" %}
-{% include figure.html image="images/groups/family-2.jpg" caption="实验室团建" %}
-{% include figure.html image="images/groups/family-4.jpg" caption="毕业合照" %}
-{% include figure.html image="images/groups/hiking-2.jpg" caption="登山活动" %}
+{% include card.html image="images/groups/hiking-1.jpg" link="life/activities" title="活动" description="记录实验室团建、登山、运动等活动。" %}
+{% include card.html image="images/groups/family-4.jpg" link="life/graduation" title="毕业" description="记录毕业合照、答辩和送别时刻。" %}
+{% include card.html image="images/groups/family-2.jpg" link="life/conferences" title="会议" description="记录学术会议、报告交流和海报展示。" %}
 
 {% endcapture %}
 
-{% include grid.html style="rect" content=content %}
+{% include grid.html content=content %}

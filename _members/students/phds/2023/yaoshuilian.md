@@ -5,6 +5,7 @@ role: phd
 affiliation: 2023级博士生
 aliases:
   - Shuilian Yao
-# links:
-#   home-page:
+links:
+  google-scholar: SW4bGJcAAAAJ
+  # home-page:
 ---

@@ -2,8 +2,10 @@
 title: 贾棋/刘宇计算机视觉实验室
 subtitle:
 description: TODO 实验室介绍
-header: images/background.jpg
-footer: images/background.jpg
+header: images/jlbackground.png
+header-dark: false
+footer: images/jlbackground.png
+footer-dark: false
 proofer: false
 
 # site social media and other links
@@ -67,3 +69,10 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+  - .docker
+  - .github
+  - .history
+  - .jekyll-cache
+  - .bundle-config-note.txt
+  - _site
+  - vendor
