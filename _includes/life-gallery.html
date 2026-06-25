@@ -16,10 +16,12 @@
     {% for photo in year_photos %}
       {% assign ext = photo.extname | downcase %}
       {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".gif" or ext == ".webp" %}
-{% include figure.html image=photo.path %}
+{% include figure.html image=photo.path link=photo.path %}
       {% endif %}
     {% endfor %}
   {% endcapture %}
 
-  {% include grid.html style="rect" content=content %}
+  <div class="life-gallery" data-lightbox-gallery>
+    {% include grid.html style="rect" content=content %}
+  </div>
 {% endfor %}

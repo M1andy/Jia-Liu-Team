@@ -1,6 +1,6 @@
 ---
 name: 刘凯欣
-image: images/team/unknown.jpg
+image: images/team/students/undergrads/2024/liukaixin.png
 role: undergrad
 affiliation: 2024级硕士生
 aliases:
