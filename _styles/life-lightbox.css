@@ -1,0 +1,78 @@
+.life-gallery .figure-image {
+  cursor: zoom-in;
+}
+
+.life-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: grid;
+  grid-template-columns: 64px 1fr 64px;
+  align-items: center;
+  gap: 12px;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.88);
+}
+
+.life-lightbox[hidden] {
+  display: none;
+}
+
+.life-lightbox-image {
+  justify-self: center;
+  max-width: 100%;
+  max-height: calc(100vh - 48px);
+  object-fit: contain;
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
+}
+
+.life-lightbox button {
+  width: 48px;
+  height: 48px;
+  border: 0;
+  border-radius: 50%;
+  color: white;
+  background: rgba(255, 255, 255, 0.16);
+  cursor: pointer;
+  font-size: 36px;
+  line-height: 1;
+}
+
+.life-lightbox button:hover,
+.life-lightbox button:focus-visible {
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.life-lightbox-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+
+.life-lightbox-prev {
+  justify-self: start;
+}
+
+.life-lightbox-next {
+  justify-self: end;
+}
+
+body.lightbox-open {
+  overflow: hidden;
+}
+
+@media (max-width: 700px) {
+  .life-lightbox {
+    grid-template-columns: 48px 1fr 48px;
+    gap: 4px;
+    padding: 16px 8px;
+  }
+  .life-lightbox button {
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+  }
+}
+
+/*# sourceMappingURL=life-lightbox.css.map */
